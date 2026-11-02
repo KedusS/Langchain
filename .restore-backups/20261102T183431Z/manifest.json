@@ -1,0 +1,23 @@
+{
+  "restored_tree": "7436e7adcefbb01c8eea3f84024058259412e174",
+  "restored_files": [
+    "search-agent/README.md",
+    "search-agent/main.py",
+    "search-agent/streamlit_app.py",
+    "search-agent/test_rules_grounding.py",
+    "search-agent/tools.py"
+  ],
+  "later_files_archived_and_removed": [
+    "search-agent/test_context_history.py",
+    "search-agent/test_assistant.py"
+  ],
+  "previous_sha256": {
+    "search-agent/README.md": "a5036c0c4784396ae0232f929b63c8666d6d6ab92df3e6b3e53027f0a64d5052",
+    "search-agent/main.py": "03dfd3ebb7e606fb7ce1f731a2e5933efb7bfcd3769fda5e2ed562f7a09b205f",
+    "search-agent/streamlit_app.py": "509a90d955c658eea285484f2fbc1daeca29e113fcccddfdcc27e7e47342bb24",
+    "search-agent/test_rules_grounding.py": "2745eece36a8bd525b71e39effd857a76ad2d4d8a96de80ccbb0ae82f6d5dc80",
+    "search-agent/tools.py": "5d5e211be90e18bf15ae355a7844358f9c223939a45819e5e4389a9457ab75d0",
+    "search-agent/test_context_history.py": "c607455c958ad14a1a572270c488c50777e127aa510a936a61a6a8333abf8d32",
+    "search-agent/test_assistant.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

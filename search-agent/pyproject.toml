@@ -1,0 +1,20 @@
+[project]
+name = "optcg-rules-assistant"
+version = "0.1.0"
+description = "A LangChain assistant for One Piece Card Game rules and card lookups"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=1.0.4",
+    "langchain-chroma>=1.0.0",
+    "langchain-ollama>=1.0.0",
+    "langchain-text-splitters>=1.0.0",
+    "httpx>=0.27.0",
+    "pypdf>=5.0.0",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.0",
+    "streamlit>=1.50.0",
+]
+
+[tool.uv]
+package = false
